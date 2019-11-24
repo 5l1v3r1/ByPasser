@@ -1,17 +1,11 @@
 # ByPasser
 A Python Script Allows You To Bypass Waf In A Host Or a Demain
 
-## Installation 
-
-git clone https://github.com/doophack/ByPasser.git
-
+## Installation & Usage: 
+```
+git clone https://github.com/r2dr0dn/ByPasser.git
 cd ByPasser
-
 python ByPasser.py 
-
-## ScreenShot :
-<img src="https://i.ibb.co/z6WQrVm/Bypass.png" alt="Bypass" border="0">
-
+```
 # Author 
-
-## Benelhaj_younes
+## r2dr0dn
